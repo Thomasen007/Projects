@@ -1,8 +1,8 @@
 class CurrencyCalculator:
     def __init__(self):
         self.denominations = {
-            'bills': [100, 50, 20, 10, 5],
-            'coins': [1, 0.25, 0.10, 0.05, 0.01]
+            'bills': [100, 50, 20, 10, 5, 1],
+            'coins': [0.25, 0.10, 0.05, 0.01]
         }
 
     def calculate_minimum_bills_and_coins(self, amount):

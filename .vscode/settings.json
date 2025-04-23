@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "currency-selection-system"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
